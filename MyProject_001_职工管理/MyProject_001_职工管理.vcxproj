@@ -127,11 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BOSS.cpp" />
+    <ClCompile Include="JL.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="workerMan.cpp" />
+    <ClCompile Include="YG.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BOSS.h" />
+    <ClInclude Include="JL.h" />
+    <ClInclude Include="worker.h" />
     <ClInclude Include="workerMan.h" />
+    <ClInclude Include="YG.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

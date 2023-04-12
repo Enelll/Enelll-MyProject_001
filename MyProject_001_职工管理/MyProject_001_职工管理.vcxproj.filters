@@ -21,9 +21,30 @@
     <ClCompile Include="workerMan.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="YG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="workerMan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="worker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="YG.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSS.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
