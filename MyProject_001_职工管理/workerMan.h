@@ -31,4 +31,12 @@ public:
 	int isExist(int id);
 
 	void delMan();
+
+	void modMan();
+
+	void findMan();
+
+	void sortMan();
+
+	void delall();
 };

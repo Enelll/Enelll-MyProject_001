@@ -28,18 +28,18 @@ int main()
 		case 3:
 			wm.delMan();
 			break;
-		// case 4:
-		//
-		// 	break;
-		// case 5:
-		//
-		// 	break;
-		// case 6:
-		//
-		// 	break ;
-		// case7:
-		//
-		// 	break;
+		case 4:
+			wm.modMan();
+			break;
+		case 5:
+			wm.findMan();
+			break;
+		case 6:
+			wm.sortMan();
+			break ;
+		case 7:
+			wm.delall();
+			break;
 		default:
 			break;
 		}
